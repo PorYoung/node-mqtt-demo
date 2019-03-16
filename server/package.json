@@ -1,0 +1,19 @@
+{
+  "name": "node-mqtt",
+  "version": "1.0.0",
+  "description": "mqtt server in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "mqtt",
+    "nodejs"
+  ],
+  "author": "PorYoung",
+  "license": "ISC",
+  "dependencies": {
+    "mosca": "^2.8.3"
+  }
+}
