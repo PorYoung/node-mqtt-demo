@@ -1,4 +1,4 @@
-# MQTT + NodeJS + Weixin Small-Program
+# MQTT + NodeJS + Weixin MiniProgram
 > [PorYoung Blog](https://blog.poryoung.cn)
 ## [MQTT协议介绍](https://cn.bing.com)
 
